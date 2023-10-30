@@ -1,4 +1,4 @@
-# AWS Deepracer Robot Project
+# Amazon Deepracer
 
 This project is dedicated to setting up and enhancing the capabilities of the AWS Deepracer Evo vehicle, a 1/18th scale Wi-Fi-enabled 4-wheel Ackermann steering platform that features two RGB cameras and a LiDAR sensor. Using ROS2, this repository provides configuration and launch files for navigation, SLAM, and vehicle control, both in device and simulation mode.
 
